@@ -13,7 +13,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: Sotatek-Thuy
+  owner: sotatek-dev-team
   system: demo-system
   providesApis:
     - demo-service-api
